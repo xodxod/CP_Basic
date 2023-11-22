@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CH01_Basic.cpp" />
+    <ClCompile Include="CH02_Variable.cpp" />
+    <ClCompile Include="CH03_Calculation.cpp" />
+    <ClCompile Include="CH04_Condition.cpp" />
+    <ClCompile Include="CH05_Iteration.cpp" />
+    <ClCompile Include="CH06_Function.cpp" />
+    <ClCompile Include="CH07_VarScope.cpp" />
+    <ClCompile Include="CH08_Array.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DefineFunction.h" />
+    <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
