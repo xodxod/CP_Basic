@@ -16,7 +16,21 @@ int main()
 	//PrintArray();
 	//SumArray();
 	//ProcessScore();
-	BubbleSort();
+	//BubbleSort();
+	//MultiArray();
+	//DefineStructure();
+	//StructureArray();
+	//Enumeration();
+	//EvenOdd();
+	//PrintEven();
+	//StandardGrad();
+	//ArraySum();
+	//Sort();
+	//Sort();
+	//Reverse();
+	//cout << Absolute(-5);
+	abcd();
+	//StandardGrad2();
 }
 
 //함수정의 : main함수 뒤에 정의
