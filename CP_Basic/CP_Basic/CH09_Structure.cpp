@@ -4,15 +4,15 @@ void DefineStructure()
 {
 	//**변수 타입 선언
 	struct carData {
-		int Number = 0;
-		char Model = NULL;
+		int Number = 0;	
+		char Model = NULL; 
 
 	};
 
 	//변수 선언 및 초기화
 	carData Sonata = {
 		1234,
-		'A'
+		'A'	
 
 	};
 
@@ -31,12 +31,12 @@ void DefineStructure()
 void StructureArray()
 {
 	struct phone {
-		char CompanyCode = NULL; //문자 초기화 NULL
-		int PhoneNumber = 0;
+		char CompanyCode = NULL; //char CompanyCode
+		int PhoneNumber = 0; //int PhoeNumebr
 	};
 
 	phone SK[2] = {
-		{'A',12345678},
+		{'A',12345678},	
 		{'S',98765432}
 	};
 

@@ -92,6 +92,7 @@ void StandardGrad()
 void StandardGrad2()
 {
 	int Grade = 0;
+	cout << "수능 성적 상위 비율을 입력하세요!" << endl;
 	cin >> Grade;
 	if (Grade >= 96) {
 		cout << "9등급" << endl;
@@ -121,4 +122,5 @@ void StandardGrad2()
 		cout << "1등급" << endl;
 	}
 	
+
 }

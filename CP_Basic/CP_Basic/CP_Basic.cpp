@@ -29,8 +29,19 @@ int main()
 	//Sort();
 	//Reverse();
 	//cout << Absolute(-5);
-	abcd();
+	//abcd();
 	//StandardGrad2();
+	//PointerVar();
+	
+	//PointerCalc();
+	//PointerArray();
+	//DynamicAlloc();
+	//DynamicArray();
+	//InputArraySize();
+	//InputBall();
+	//PrintPlayer();
+	//PrintAirplane();
+	DynamicAirplane();
 }
 
 //함수정의 : main함수 뒤에 정의

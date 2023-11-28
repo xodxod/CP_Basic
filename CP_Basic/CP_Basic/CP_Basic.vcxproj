@@ -137,12 +137,23 @@
     <ClCompile Include="CH08_Array.cpp" />
     <ClCompile Include="CH09_Structure.cpp" />
     <ClCompile Include="CH10_Enumeration.cpp" />
+    <ClCompile Include="CH11_Pointer.cpp" />
+    <ClCompile Include="CH12_Dynamic.cpp" />
+    <ClCompile Include="CH13-1_ClassMethod.cpp" />
+    <ClCompile Include="CH13-2_AirplaneMethod.cpp" />
+    <ClCompile Include="CH13-3_This.cpp" />
+    <ClCompile Include="CH13_Class.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Array.cpp" />
     <ClCompile Include="Ex03_Function.cpp" />
+    <ClCompile Include="Ex04_Ball.cpp" />
+    <ClCompile Include="Ex05_Dice.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CH13-1_ClassHeader.h" />
+    <ClInclude Include="CH13-2_Airplane.h" />
+    <ClInclude Include="CH13-3_This.h" />
     <ClInclude Include="DefineFunction.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>

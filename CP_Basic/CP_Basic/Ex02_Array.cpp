@@ -67,7 +67,7 @@ void abcd()
 
 	for (int i = 0; i < ROWS; i++) {
 		int total_scores = a[i][0] + a[i][1] + a[i][2];
-		int sum_scores = (a[i][0] + a[i][1] + a[i][2]) / 3;
+		int sum_scores = (a[i][0] + a[i][1] + a[i][2]) / COLS;
 		
 		cout << i+1 << endl;
 		cout << total_scores << endl;
